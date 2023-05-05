@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Select In" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$IDE_HOME$/bin/fsnotifier64" />
+      <option name="PARAMETERS" value="selectin &quot;$FilePath$&quot; $LineNumber$" />
+      <option name="WORKING_DIRECTORY" value="$FileDir$" />
+    </exec>
+  </tool>
+</toolSet>
