@@ -11,6 +11,7 @@
       <mapping pattern="env.development" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping pattern=".env/.env.development" type="Shell Script" />
       <mapping pattern="index.ts" type="TypeScript" />
       <removed_mapping ext="ats" approved="true" type="TypeScript" />
       <removed_mapping ext="cjs" approved="true" type="JavaScript" />
