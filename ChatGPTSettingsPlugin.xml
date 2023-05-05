@@ -1,0 +1,20 @@
+<application>
+  <component name="com.obiscr.chatgpt.settings.OpenAISettingsState">
+    <option name="proxyType" value="HTTP" />
+    <option name="proxyHostname" value="127.0.0.1" />
+    <option name="proxyPort" value="9090" />
+    <option name="apiKey" value="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" />
+    <option name="contentOrder">
+      <map>
+        <entry key="1" value="Online ChatGPT" />
+        <entry key="2" value="ChatGPT" />
+        <entry key="3" value="GPT-3.5-Turbo" />
+      </map>
+    </option>
+    <option name="enableContext" value="true" />
+    <option name="assistantApiKey" value="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" />
+  </component>
+  <component name="com.obiscr.chatgpt.settings.SettingsState">
+    <option name="accessToken" value="eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ik1UaEVOVUpHTkVNMVFURTRNMEZCTWpkQ05UZzVNRFUxUlRVd1FVSkRNRU13UmtGRVFrRXpSZyJ9.eyJodHRwczovL2FwaS5vcGVuYWkuY29tL3Byb2ZpbGUiOnsiZW1haWwiOiJjb2RlcWllQDE2My5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiZ2VvaXBfY291bnRyeSI6IlVTIn0sImh0dHBzOi8vYXBpLm9wZW5haS5jb20vYXV0aCI6eyJ1c2VyX2lkIjoidXNlci1oSGVNSjdQbHdYTW51WHFsMEtKN3FOOG8ifSwiaXNzIjoiaHR0cHM6Ly9hdXRoMC5vcGVuYWkuY29tLyIsInN1YiI6ImF1dGgwfDYzOTE0MjIwODg3NjQ4ZDNiOTk2Mzg1YiIsImF1ZCI6WyJodHRwczovL2FwaS5vcGVuYWkuY29tL3YxIiwiaHR0cHM6Ly9vcGVuYWkuYXV0aDAuY29tL3VzZXJpbmZvIl0sImlhdCI6MTY3MDkyMTg0NCwiZXhwIjoxNjcwOTY1MDQ0LCJhenAiOiJUZEpJY2JlMTZXb1RIdE45NW55eXdoNUU0eU9vNkl0RyIsInNjb3BlIjoib3BlbmlkIHByb2ZpbGUgZW1haWwgbW9kZWwucmVhZCBtb2RlbC5yZXF1ZXN0IG9yZ2FuaXphdGlvbi5yZWFkIG9mZmxpbmVfYWNjZXNzIn0.fprMVR7_04uk9hQHjjKD58zIrRoBNJvJTdP-cSCX10UjrnERkQBQTnUarjKQFOZ0cAVRkhpszwcYu_aif2hum-_UR_eS2rR8w6432NHyPZzByvaUpLt6LcpbgA8nST_K2S77jIIiv07JMdcgXZccHgvg9hKt1rE7svYS4QUW2KfZobPkyNCt4y5W5oNx-AiyJqTO8UTUJLZPVugFd315SKdrqd0grHSunhAC-{&quot;user&quot;:{&quot;id&quot;:&quot;user-hHeMJ7PlwXMnuXql0KJ7qN8o&quot;,&quot;name&quot;:&quot;codeqie@163.com&quot;,&quot;email&quot;:&quot;codeqie@163.com&quot;,&quot;image&quot;:&quot;https://s.gravatar.com/avatar/f0e97ac7f2b1c3c8a93626700e826a5b?s=480&amp;r=pg&amp;d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fco.png&quot;,&quot;picture&quot;:&quot;https://s.gravatar.com/avatar/f0e97ac7f2b1c3c8a93626700e826a5b?s=480&amp;r=pg&amp;d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fco.png&quot;,&quot;groups&quot;:[],&quot;features&quot;:[]},&quot;expires&quot;:&quot;2023-01-12T09:20:54.604Z&quot;,&quot;accessToken&quot;:&quot;eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ik1UaEVOVUpHTkVNMVFURTRNMEZCTWpkQ05UZzVNRFUxUlRVd1FVSkRNRU13UmtGRVFrRXpSZyJ9.eyJodHRwczovL2FwaS5vcGVuYWkuY29tL3Byb2ZpbGUiOnsiZW1haWwiOiJjb2RlcWllQDE2My5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiZ2VvaXBfY291bnRyeSI6IlVTIn0sImh0dHBzOi8vYXBpLm9wZW5haS5jb20vYXV0aCI6eyJ1c2VyX2lkIjoidXNlci1oSGVNSjdQbHdYTW51WHFsMEtKN3FOOG8ifSwiaXNzIjoiaHR0cHM6Ly9hdXRoMC5vcGVuYWkuY29tLyIsInN1YiI6ImF1dGgwfDYzOTE0MjIwODg3NjQ4ZDNiOTk2Mzg1YiIsImF1ZCI6WyJodHRwczovL2FwaS5vcGVuYWkuY29tL3YxIiwiaHR0cHM6Ly9vcGVuYWkuYXV0aDAuY29tL3VzZXJpbmZvIl0sImlhdCI6MTY3MDkyMTg0NCwiZXhwIjoxNjcwOTY1MDQ0LCJhenAiOiJUZEpJY2JlMTZXb1RIdE45NW55eXdoNUU0eU9vNkl0RyIsInNjb3BlIjoib3BlbmlkIHByb2ZpbGUgZW1haWwgbW9kZWwucmVhZCBtb2RlbC5yZXF1ZXN0IG9yZ2FuaXphdGlvbi5yZWFkIG9mZmxpbmVfYWNjZXNzIn0.fprMVR7_04uk9hQHjjKD58zIrRoBNJvJTdP-cSCX10UjrnERkQBQTnUarjKQFOZ0cAVRkhpszwcYu_aif2hum-_UR_eS2rR8w6432NHyPZzByvaUpLt6LcpbgA8nST_K2S77jIIiv07JMdcgXZccHgvg9hKt1rE7svYS4QUW2KfZobPkyNCt4y5W5oNx-AiyJqTO8UTUJLZPVugFd315SKdrqd0grHSunhAC-6OC-uOkm7qUJ8CZEY8HK8vT1JWolBM-q-snJflWNuxq04IkVOafjcrzB53WWhddWXmKop3HEgmCJuPCHvXEY4UOboml5QSF-tYBip4kSGzHO46Few&quot;}" />
+  </component>
+</application>

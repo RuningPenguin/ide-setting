@@ -1,0 +1,30 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://47.100.218.26:3000" />
+          <option name="userName" value="zzwzmzka@163.com" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.nx-code.com" />
+          <option name="userName" value="xu.wang" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://codeup.aliyun.com" />
+          <option name="userName" value="wangxu01" />
+        </UrlAndUserName>
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Subject" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+      </list>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,11 @@
+<application>
+  <component name="AdvancedSettings">
+    <option name="settings">
+      <map>
+        <entry key="editor.soft.wrap.force.limit" value="10000" />
+        <entry key="ide.show.fileType.icon.in.titleBar" value="true" />
+        <entry key="vcs.annotations.preload" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

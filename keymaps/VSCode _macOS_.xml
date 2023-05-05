@@ -1,0 +1,23 @@
+<keymap version="1" name="VSCode (macOS) 副本" parent="VSCode OSX">
+  <action id="Macro.save&amp;format">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
+  <action id="SaveDocument" />
+  <action id="cn.wind.action.FuckGankAction">
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+    <keyboard-shortcut first-keystroke="ctrl period" />
+  </action>
+  <action id="cn.wind.action.NextAction">
+    <keyboard-shortcut first-keystroke="ctrl alt 3" />
+    <keyboard-shortcut first-keystroke="ctrl down" />
+    <mouse-shortcut keystroke="shift button1" />
+  </action>
+  <action id="cn.wind.action.PrevAction">
+    <keyboard-shortcut first-keystroke="ctrl alt 2" />
+    <keyboard-shortcut first-keystroke="ctrl up" />
+  </action>
+  <action id="cn.wind.action.SwipeAction">
+    <keyboard-shortcut first-keystroke="ctrl alt 1" />
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
+</keymap>
