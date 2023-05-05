@@ -19,6 +19,7 @@
       <removed_mapping ext="jsx" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="wxml" approved="true" type="HTML" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
+      <removed_mapping pattern=".eslintrc" approved="true" type="JSON" />
       <removed_mapping pattern="index.js" approved="true" type="AUTO_DETECTED" />
       <removed_mapping pattern="index.ts" approved="true" type="AUTO_DETECTED" />
     </extensionMap>
