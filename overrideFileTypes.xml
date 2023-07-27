@@ -5,6 +5,7 @@
     <file url="file://$USER_HOME$/github/blog/src/style/index.scss" value="SCSS" />
     <file url="file://$USER_HOME$/yiqing/cms-manage-web/.env/.env.development" value=".env file" />
     <file url="file://$USER_HOME$/yiqing/hozon-cms-h5/src/apis/invitationCenter/posterInvitation.api.d.ts" value="TypeScript" />
-    <file url="file://$USER_HOME$/yiqing/hozon-cms-h5/src/utils/a.cjs" value="JavaScript" />
+    <file url="file://$USER_HOME$/yiqing/hozon-cms-h5/src/apis/share/car.api.d.ts" value="TypeScript" />
+    <file url="file://$USER_HOME$/yiqing/hozon-cms-h5/src/apis/share/car.api.ts" value="TypeScript" />
   </component>
 </application>
