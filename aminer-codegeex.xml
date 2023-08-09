@@ -1,6 +1,7 @@
 <application>
   <component name="aminer-codegeex">
     <option name="enableCompletions" value="false" />
+    <option name="checkForUpdate" value="false" />
     <option name="sessionId" value="0418f685-e7a6-49dd-b1ad-da915f0e0e5f" />
     <option name="userId" value="208425eb22084caeafc6b3eb7336dd3f" />
     <option name="userName" value="RuningPenguin" />
