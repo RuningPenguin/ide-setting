@@ -1,5 +1,7 @@
 <application>
   <component name="aminer-codegeex">
+    <option name="telemetryEnabled" value="true" />
+    <option name="telemetryConfigured" value="true" />
     <option name="enableCompletions" value="false" />
     <option name="checkForUpdate" value="false" />
     <option name="sessionId" value="0418f685-e7a6-49dd-b1ad-da915f0e0e5f" />
