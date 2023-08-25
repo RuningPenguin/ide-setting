@@ -6,5 +6,6 @@
     <file url="file://$USER_HOME$/yiqing/cms-manage-web/.env/.env.development" value=".env file" />
     <file url="file://$USER_HOME$/yiqing/hozon-cms-h5/src/apis/invitationCenter/posterInvitation.api.d.ts" value="TypeScript" />
     <file url="file://$USER_HOME$/yiqing/hozon-cms-h5/src/hooks/buryingPoint.d.ts" value="TypeScript" />
+    <file url="file://$USER_HOME$/yiqing/hozon-cms-h5/src/libs/app-func.d.ts" value="TypeScript" />
   </component>
 </application>
