@@ -12,10 +12,15 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://codeup.aliyun.com" />
-          <option name="userName" value="wangxu01" />
+          <option name="userName" value="xuwang" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://codeup.aliyun.com/6466e1f18f0e92e1db05d12f/hozon/hozon-cms/web-services/hozon-cms-h5.git" />
+          <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="$USER_HOME$/Desktop" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
